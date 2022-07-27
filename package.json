@@ -1,8 +1,8 @@
 {
 
   "scripts": {
-    "build":"npx tailwindcss -i ./src/global.css -o ./dist/output.css --minify",
-    "watch":"npx tailwindcss -i ./src/global.css -o ./dist/output.css -w --minify"
+    "build":"npx tailwindcss -i ./src/global.css -o ./src/output.css --minify",
+    "watch":"npx tailwindcss -i ./src/global.css -o ./src/output.css -w --minify"
   },
   "devDependencies": {
     "tailwindcss": "^3.1.6"

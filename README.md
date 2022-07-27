@@ -30,7 +30,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: [Github](https://github.com/GokhanCerk/insure-landing-page)
-- [Live](https://your-live-site-url.com)
+- [Live](https://insure-fm.netlify.app/)
 
 
 ### Built with

@@ -8,6 +8,7 @@ This is a solution to the [Insure landing page challenge on Frontend Mentor](htt
   - [The challenge](#the-challenge)
   - [Screenshot](#screenshot)
   - [Links](#links)
+  - [Install on local machine](#Installing)
 
 ## Overview
 
@@ -40,3 +41,8 @@ Users should be able to:
 - Mobile-first workflow
 - VanillaJS
 
+### Installing
+````
+ npm run watch
+
+````
